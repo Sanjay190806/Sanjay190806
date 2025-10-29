@@ -107,8 +107,8 @@ I am a **visionary technologist and serial entrepreneur** with a deep passion fo
 | **Institution** | RMD Engineering College, Chennai |
 | **Period** | 2024-2028 (Currently Year 2) |
 | **Specializations** | AI/ML, Embedded Systems, IoT, Robotics |
-| **GPA** | Maintaining excellent academic standing |
-| **Additional Certifications** | Multiple coding competition wins, hackathon victories |
+| **GPA** | Maintaining excellent academic standing with 8.57 CGPA|
+
 
 ### **Core Competencies**
 
@@ -149,6 +149,9 @@ I am a **visionary technologist and serial entrepreneur** with a deep passion fo
 Proficiency Level
 Languages = {
 "Python": "⭐⭐⭐⭐⭐ Expert",
+"Java": "⭐⭐⭐⭐⭐ Expert",
+"R Langauge": "⭐⭐⭐ Intermediate",
+"Julia": "⭐⭐⭐ Intermediate",
 "C/C++": "⭐⭐⭐⭐ Advanced",
 "JavaScript": "⭐⭐⭐ Intermediate",
 "Arduino": "⭐⭐⭐⭐ Advanced",
@@ -185,7 +188,7 @@ Languages = {
 - **Version Control**: Git, GitHub
 - **Design Tools**: Fusion 360, KiCad, Tinkercad
 - **Documentation**: Markdown, Confluence, Notion
-- **Operating Systems**: Windows, Linux, macOS
+- **Operating Systems**: Windows, Kali Linux, Ubuntu
 
 ---
 
@@ -287,8 +290,8 @@ Languages = {
 - Neuroscience fundamentals
 
 **Completed Certifications & Courses:**
-- Multiple coding competition victories
-- Hackathon and innovation challenge awards
+- Multiple coding completion victories
+- Hackathon and innovation challenge participation
 - Self-taught expertise in AI/ML and embedded systems
 - Peer-reviewed technical projects
 
@@ -347,19 +350,14 @@ Languages = {
 
 ### **Conference Talks & Presentations**
 
-- 🎤 Neurotechnology Innovation Summit 2025 (Scheduled)
+- 🎤 Neurotechnology Innovation Summit 2025 (Upcoming)
 - 🎤 AI/ML Meetup Chennai (Upcoming)
 - 🎤 Startup Ecosystem Panel Discussion (Planned)
 
-### **Press & Media**
-
-- 📰 Featured in TechCrunch "Startups to Watch" (Oct 2025)
-- 📰 Tamil Nadu Startup Awards Winner (2025)
-- 📰 Local tech publications (Upcoming coverage)
 
 ### **Startup Ecosystem**
 
-- ✅ Accepted: Microsoft for Startups Program
+- 🔄 Applied: Microsoft for Startups Program
 - 🔄 Applied: Y Combinator (Upcoming batch)
 - 🔄 Applied: Various accelerators and incubators
 
@@ -477,10 +475,10 @@ Age: 19-20 years
 Location: Chennai, Tamil Nadu, India
 Status: B.E. Year 2 Student + Founder
 Projects: 1 major (Linkware), 3+ planned
-Tech Stack: Python, C++, AI/ML, Embedded Systems
-Current Focus: Linkware development + Data Analyst course
+Tech Stack: Python, Java, C++, AI/ML, Embedded Systems
+Current Focus: Linkware development + Data Scientist
 Dream Company: Tesla, Neuralink, Boston Dynamics
-Ultimate Goal: First Trillionaire via Linkware ecosystem
+Ultimate Goal: Massive build the Linkware ecosystem
 
 
 ---
